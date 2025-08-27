@@ -8,5 +8,5 @@ $ pyinstaller --onefile led.py
 ```
 Install system-wide
 ```bash
-# cp dist/led /usr/local/bin/candy-led
+# cp dist/led /usr/local/bin/led
 ```
